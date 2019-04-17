@@ -1,0 +1,10 @@
+{
+  "name": "aws-react-jwt-auth-lambda",
+  "version": "0.1.0",
+  "author": "Vasilii Trofimchuk",
+  "private": true,
+  "dependencies": {
+    "jsonwebtoken": "latest",
+    "jwk-to-pem": "latest"
+  }
+}
